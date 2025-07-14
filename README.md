@@ -1,4 +1,5 @@
 # MGit
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zacharia2/MGit/total)
 
 MGit是一款Git客户端安卓应用。（Version ≥ Android 12）。拥有常用的拉取、推送、提交、合并、克隆、比较、衍合、择取、创建新的分支、添加本地仓库、重置更改等等功能。当前维护者为 maks/MGit，此分支的设计意义和目标是填补Android平台上对Git知识库同步功能的空白。
 
